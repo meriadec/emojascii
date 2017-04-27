@@ -1,0 +1,10 @@
+{
+  "name": "emojascii",
+  "version": "1.0.0",
+  "description": "Write ASCII art with emojis",
+  "bin": {
+    "emojascii": "./cli.js"
+  },
+  "author": "Meriadec Pillet <meriadec.pillet@gmail.com>",
+  "license": "MIT"
+}
