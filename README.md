@@ -1,5 +1,9 @@
 # emojascii
 
+Write ASCII art with emojis
+
+![](screenshot.png)
+
 ## installation
 
 ```
