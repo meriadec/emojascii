@@ -2,6 +2,10 @@
   "name": "emojascii",
   "version": "1.0.1",
   "description": "Write ASCII art with emojis",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/meriadec/emojascii"
+  },
   "bin": {
     "emojascii": "./cli.js"
   },
